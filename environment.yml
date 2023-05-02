@@ -1,0 +1,14 @@
+name: algonauts
+channels:
+  - defaults
+dependencies:
+  - numpy=1.24.2
+  - nilearn
+  - tqdm=4.64.1
+  - scipy=1.7.3
+  - matplotlib=3.7.1
+  - scikit-learn=1.1.1
+  - pillow=9.2.0
+  - python=3.9
+  - notebook=6.5.3
+prefix: C:\Users\Foof\anaconda3\envs\algonauts
